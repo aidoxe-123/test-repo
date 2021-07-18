@@ -9,4 +9,5 @@ int main()
 
     return 0;
 // @@author
+`@@author' tags this should be ignored
 }
