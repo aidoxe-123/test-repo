@@ -4,7 +4,8 @@ using namespace std;
 
 int main()
 {
-    cout<<"Hello World";
+    cout<<"@@author wrong";
+    cout<<"@@author";
 
     return 0;
 // @@author
